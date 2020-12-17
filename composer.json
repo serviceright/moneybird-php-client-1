@@ -1,5 +1,5 @@
 {
-  "name": "picqer/moneybird-php-client",
+  "name": "serviceright/moneybird-php-client-1",
   "type": "library",
   "description": "A PHP Client for the Moneybird V2 API",
   "keywords": [
@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "php": ">=5.6.0",
+    "php": "^8.0",
     "guzzlehttp/guzzle": "^6.3.1|^7.0",
     "ext-json": "*"
   },
